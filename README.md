@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *IOS101-Prework*
 
 Submitted by: **Manav Mittal**
 
-**IOS101-Prework** is an app that... [TODO] 
+**IOS101-Prework** is an app that changes the backround color with the push of a button. 
 
 Time spent: **0.5** hours spent in total
 
@@ -30,7 +30,7 @@ Favorite applications:
     - Sorting by date and displaying most recent ones first
 
 ### Idea for App to Build: Gym Fitness Tracker
-The app would allow users to create workout plans and log their progress. It will integrate some of my favorite apps like Clock and Spotify. The idea is for gym goers to be able to control everthing from one app. This app would provide users with a more personalized experience in selecting music and tailoring their playlists depending on the workout plan. The seemless clock design would also be a good addition, allowing users to track rest and set times. This app has a lot of potential to scale by adding analytics and suggestions based on user progress. 
+The app would allow users to create workout plans and log their progress. It will integrate some of my favorite apps like Clock and Spotify. The idea is for gym goers to be able to control everthing from one app. This app would provide users with a more personalized experience in selecting music and tailoring their playlists to the workout plan. The seemless clock design would also be a good addition, allowing users to track rest and set times. This app has a lot of potential to scale by adding analytics and suggestions based on user progress. 
 
 
 ## Notes
@@ -39,7 +39,7 @@ The app is very simple to build. The only challenge was getting familiar with th
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Manav Mittal
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
